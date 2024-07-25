@@ -1,0 +1,66 @@
+﻿@model RingoMedia.Dtos.DepartmentDTO
+
+@{
+    ViewData["Title"] = "Create Department";
+}
+
+<h2>Create Department</h2>
+
+<form asp-action="Create" enctype="multipart/form-data" method="post">
+    <div class="form-group">
+        <label asp-for="Name" class="control-label"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+  
+    <div class="form-group">
+        <label asp-for="LogoFile" class="control-label">Upload Logo</label>
+        <input asp-for="LogoFile" type="file" class="form-control" />
+        <span asp-validation-for="LogoFile" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="ParentDepartmentId" class="control-label">Parent Department</label>
+        <select asp-for="ParentDepartmentId" class="form-control" id="parentDepartmentSelect">
+            <option value="">None</option>
+            @foreach (var dept in ViewBag.Departments)
+            {
+                <option value="@dept.Id">@dept.Name</option>
+            }
+        </select>
+        <span asp-validation-for="ParentDepartmentId" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="SubDepartmentIds" class="control-label">Sub-Departments</label>
+        <select asp-for="SubDepartmentIds" class="form-control" multiple="multiple" id="subDepartmentSelect">
+            @foreach (var dept in ViewBag.Departments)
+            {
+                <option value="@dept.Id">@dept.Name</option>
+            }
+        </select>
+        <span asp-validation-for="SubDepartmentIds" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Create" class="btn btn-primary" />
+    </div>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+    <script>
+        document.getElementById('parentDepartmentSelect').addEventListener('change', function() {
+            var parentDepartmentId = this.value;
+            var subDepartmentSelect = document.getElementById('subDepartmentSelect');
+            var options = subDepartmentSelect.options;
+
+            for (var i = 0; i < options.length; i++) {
+                var option = options[i];
+                if (option.value === parentDepartmentId) {
+                    option.style.display = 'none';
+                    option.selected = false;
+                } else {
+                    option.style.display = '';
+                }
+            }
+        });
+    </script>
+}

@@ -1,0 +1,19 @@
+﻿@model RingoMedia.Dtos.DepartmentDetailsViewModel
+
+<h2>@Model.Department.Name</h2>
+
+<h3>Sub-Departments:</h3>
+<ul>
+    @foreach (var subDept in Model.Department.SubDepartments)
+    {
+        <li>@subDept.Name</li>
+    }
+</ul>
+
+<h3>Parent Departments:</h3>
+<ul>
+    @foreach (var parentDept in Model.ParentDepartments)
+    {
+        <li>@parentDept.Name</li>
+    }
+</ul>

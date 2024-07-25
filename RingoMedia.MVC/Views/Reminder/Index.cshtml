@@ -1,0 +1,31 @@
+﻿@model IEnumerable<RingoMedia.Dtos.ReminderDTO>
+
+<h2>Reminders</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Date-Time</th>
+            <th>Mail</th>
+
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var reminder in Model)
+        {
+            <tr>
+                <td>@reminder.Title</td>
+                <td>@reminder.DateTime</td>
+                <td>@reminder.mail</td>
+                <td>
+                    <a href="@Url.Action("Edit", new { id = reminder.Id })">Edit</a> |
+                    <a asp-action="Delete" asp-route-id="@reminder.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="Create" class="btn btn-primary">Create New Reminder</a>

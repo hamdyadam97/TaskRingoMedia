@@ -1,0 +1,12 @@
+E:\RingoMedia\RingoMedia\RingoMedia.Dtos\bin\Debug\net8.0\RingoMedia.Dtos.deps.json
+E:\RingoMedia\RingoMedia\RingoMedia.Dtos\bin\Debug\net8.0\RingoMedia.Dtos.dll
+E:\RingoMedia\RingoMedia\RingoMedia.Dtos\bin\Debug\net8.0\RingoMedia.Dtos.pdb
+E:\RingoMedia\RingoMedia\RingoMedia.Dtos\obj\Debug\net8.0\RingoMedia.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+E:\RingoMedia\RingoMedia\RingoMedia.Dtos\obj\Debug\net8.0\RingoMedia.Dtos.AssemblyInfoInputs.cache
+E:\RingoMedia\RingoMedia\RingoMedia.Dtos\obj\Debug\net8.0\RingoMedia.Dtos.AssemblyInfo.cs
+E:\RingoMedia\RingoMedia\RingoMedia.Dtos\obj\Debug\net8.0\RingoMedia.Dtos.csproj.CoreCompileInputs.cache
+E:\RingoMedia\RingoMedia\RingoMedia.Dtos\obj\Debug\net8.0\RingoMedia.Dtos.dll
+E:\RingoMedia\RingoMedia\RingoMedia.Dtos\obj\Debug\net8.0\refint\RingoMedia.Dtos.dll
+E:\RingoMedia\RingoMedia\RingoMedia.Dtos\obj\Debug\net8.0\RingoMedia.Dtos.pdb
+E:\RingoMedia\RingoMedia\RingoMedia.Dtos\obj\Debug\net8.0\ref\RingoMedia.Dtos.dll
+E:\RingoMedia\RingoMedia\RingoMedia.Dtos\obj\Debug\net8.0\RingoMedia.Dtos.csproj.AssemblyReference.cache

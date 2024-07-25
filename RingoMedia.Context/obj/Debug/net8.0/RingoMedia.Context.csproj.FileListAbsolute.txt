@@ -1,0 +1,17 @@
+E:\RingoMedia\RingoMedia\RingoMedia.Context\bin\Debug\net8.0\RingoMedia.Context.deps.json
+E:\RingoMedia\RingoMedia\RingoMedia.Context\bin\Debug\net8.0\RingoMedia.Context.runtimeconfig.json
+E:\RingoMedia\RingoMedia\RingoMedia.Context\bin\Debug\net8.0\RingoMedia.Context.dll
+E:\RingoMedia\RingoMedia\RingoMedia.Context\bin\Debug\net8.0\RingoMedia.Context.pdb
+E:\RingoMedia\RingoMedia\RingoMedia.Context\bin\Debug\net8.0\RingoMedia.Models.dll
+E:\RingoMedia\RingoMedia\RingoMedia.Context\bin\Debug\net8.0\RingoMedia.Models.pdb
+E:\RingoMedia\RingoMedia\RingoMedia.Context\obj\Debug\net8.0\RingoMedia.Context.csproj.AssemblyReference.cache
+E:\RingoMedia\RingoMedia\RingoMedia.Context\obj\Debug\net8.0\RingoMedia.Context.GeneratedMSBuildEditorConfig.editorconfig
+E:\RingoMedia\RingoMedia\RingoMedia.Context\obj\Debug\net8.0\RingoMedia.Context.AssemblyInfoInputs.cache
+E:\RingoMedia\RingoMedia\RingoMedia.Context\obj\Debug\net8.0\RingoMedia.Context.AssemblyInfo.cs
+E:\RingoMedia\RingoMedia\RingoMedia.Context\obj\Debug\net8.0\RingoMedia.Context.csproj.CoreCompileInputs.cache
+E:\RingoMedia\RingoMedia\RingoMedia.Context\obj\Debug\net8.0\RingoMed.4A625D82.Up2Date
+E:\RingoMedia\RingoMedia\RingoMedia.Context\obj\Debug\net8.0\RingoMedia.Context.dll
+E:\RingoMedia\RingoMedia\RingoMedia.Context\obj\Debug\net8.0\refint\RingoMedia.Context.dll
+E:\RingoMedia\RingoMedia\RingoMedia.Context\obj\Debug\net8.0\RingoMedia.Context.pdb
+E:\RingoMedia\RingoMedia\RingoMedia.Context\obj\Debug\net8.0\RingoMedia.Context.genruntimeconfig.cache
+E:\RingoMedia\RingoMedia\RingoMedia.Context\obj\Debug\net8.0\ref\RingoMedia.Context.dll

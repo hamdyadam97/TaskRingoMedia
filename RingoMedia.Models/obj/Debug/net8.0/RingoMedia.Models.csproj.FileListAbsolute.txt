@@ -1,0 +1,11 @@
+E:\RingoMedia\RingoMedia\RingoMedia.Models\bin\Debug\net8.0\RingoMedia.Models.deps.json
+E:\RingoMedia\RingoMedia\RingoMedia.Models\bin\Debug\net8.0\RingoMedia.Models.dll
+E:\RingoMedia\RingoMedia\RingoMedia.Models\bin\Debug\net8.0\RingoMedia.Models.pdb
+E:\RingoMedia\RingoMedia\RingoMedia.Models\obj\Debug\net8.0\RingoMedia.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\RingoMedia\RingoMedia\RingoMedia.Models\obj\Debug\net8.0\RingoMedia.Models.AssemblyInfoInputs.cache
+E:\RingoMedia\RingoMedia\RingoMedia.Models\obj\Debug\net8.0\RingoMedia.Models.AssemblyInfo.cs
+E:\RingoMedia\RingoMedia\RingoMedia.Models\obj\Debug\net8.0\RingoMedia.Models.csproj.CoreCompileInputs.cache
+E:\RingoMedia\RingoMedia\RingoMedia.Models\obj\Debug\net8.0\RingoMedia.Models.dll
+E:\RingoMedia\RingoMedia\RingoMedia.Models\obj\Debug\net8.0\refint\RingoMedia.Models.dll
+E:\RingoMedia\RingoMedia\RingoMedia.Models\obj\Debug\net8.0\RingoMedia.Models.pdb
+E:\RingoMedia\RingoMedia\RingoMedia.Models\obj\Debug\net8.0\ref\RingoMedia.Models.dll

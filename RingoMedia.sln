@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RingoMedia.Application", "RingoMedia.Application\RingoMedia.Application.csproj", "{2B41FC42-1CA3-41EA-B8E1-2B8EBC458387}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RingoMedia.Context", "RingoMedia.Context\RingoMedia.Context.csproj", "{FB0CE293-1C87-4085-94F9-DF17F8E928C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RingoMedia.Dtos", "RingoMedia.Dtos\RingoMedia.Dtos.csproj", "{C916464A-306E-4661-B823-D7240629A352}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RingoMedia.Models", "RingoMedia.Models\RingoMedia.Models.csproj", "{DD3A5614-00EB-4389-8FAC-2F430B29797D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RingoMedia.Infrastructure", "RingoMedia.Infrastructure\RingoMedia.Infrastructure.csproj", "{46980B31-2286-48F9-9465-04C6D20C4099}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RingoMedia.MVC", "RingoMedia.MVC\RingoMedia.MVC.csproj", "{7F91C60F-2C21-4795-8B57-0FBC023AF559}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B41FC42-1CA3-41EA-B8E1-2B8EBC458387}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B41FC42-1CA3-41EA-B8E1-2B8EBC458387}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B41FC42-1CA3-41EA-B8E1-2B8EBC458387}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B41FC42-1CA3-41EA-B8E1-2B8EBC458387}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB0CE293-1C87-4085-94F9-DF17F8E928C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB0CE293-1C87-4085-94F9-DF17F8E928C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB0CE293-1C87-4085-94F9-DF17F8E928C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB0CE293-1C87-4085-94F9-DF17F8E928C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C916464A-306E-4661-B823-D7240629A352}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C916464A-306E-4661-B823-D7240629A352}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C916464A-306E-4661-B823-D7240629A352}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C916464A-306E-4661-B823-D7240629A352}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD3A5614-00EB-4389-8FAC-2F430B29797D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD3A5614-00EB-4389-8FAC-2F430B29797D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD3A5614-00EB-4389-8FAC-2F430B29797D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD3A5614-00EB-4389-8FAC-2F430B29797D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46980B31-2286-48F9-9465-04C6D20C4099}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46980B31-2286-48F9-9465-04C6D20C4099}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46980B31-2286-48F9-9465-04C6D20C4099}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46980B31-2286-48F9-9465-04C6D20C4099}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F91C60F-2C21-4795-8B57-0FBC023AF559}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F91C60F-2C21-4795-8B57-0FBC023AF559}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F91C60F-2C21-4795-8B57-0FBC023AF559}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F91C60F-2C21-4795-8B57-0FBC023AF559}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA43FBDA-A47C-4B1B-A600-0AD906C410C9}
+	EndGlobalSection
+EndGlobal

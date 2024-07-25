@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RingoMedia.Application\RingoMedia.Application.csproj" />
+    <ProjectReference Include="..\RingoMedia.Context\RingoMedia.Context.csproj" />
+    <ProjectReference Include="..\RingoMedia.Models\RingoMedia.Models.csproj" />
+  </ItemGroup>
+
+</Project>
