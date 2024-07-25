@@ -148,3 +148,4 @@ E:\RingoMedia\RingoMedia\RingoMedia.MVC\obj\Debug\net8.0\ref\RingoMedia.MVC.dll
 E:\RingoMedia\RingoMedia\RingoMedia.MVC\bin\Debug\net8.0\Microsoft.AspNetCore.Connections.Abstractions.dll
 E:\RingoMedia\RingoMedia\RingoMedia.MVC\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Connections.Common.dll
 E:\RingoMedia\RingoMedia\RingoMedia.MVC\bin\Debug\net8.0\Microsoft.Extensions.Features.dll
+E:\RingoMedia\RingoMedia\RingoMedia.MVC\obj\Debug\net8.0\RingoMedia.MVC.sourcelink.json

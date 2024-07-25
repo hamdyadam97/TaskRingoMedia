@@ -15,3 +15,4 @@ E:\RingoMedia\RingoMedia\RingoMedia.Application\obj\Debug\net8.0\RingoMedia.Appl
 E:\RingoMedia\RingoMedia\RingoMedia.Application\obj\Debug\net8.0\refint\RingoMedia.Application.dll
 E:\RingoMedia\RingoMedia\RingoMedia.Application\obj\Debug\net8.0\RingoMedia.Application.pdb
 E:\RingoMedia\RingoMedia\RingoMedia.Application\obj\Debug\net8.0\ref\RingoMedia.Application.dll
+E:\RingoMedia\RingoMedia\RingoMedia.Application\obj\Debug\net8.0\RingoMedia.Application.sourcelink.json

@@ -18,7 +18,7 @@ namespace RingoMedia.Application.Services
             _smtpClient = new SmtpClient("smtp.gmail.com") // Replace with your SMTP server
             {
                 Port = 587,
-                Credentials = new NetworkCredential("hamdyadam543@gmail.com", "tiuv rtdh zsvk rqif"), // Replace with your email credentials
+                Credentials = new NetworkCredential("hamdyadam543@gmail.com", ""), // Replace with your email credentials
                 EnableSsl = true,
             };
         }

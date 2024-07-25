@@ -245,8 +245,24 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+      "Id": "E:\\RingoMedia\\RingoMedia\\RingoMedia.MVC\\wwwroot\\uploads\\0e1a88e7-e857-4276-b748-b0b08ab1b098.png",
+      "PackagePath": "staticwebassets\\uploads\\0e1a88e7-e857-4276-b748-b0b08ab1b098.png"
+    },
+    {
+      "Id": "E:\\RingoMedia\\RingoMedia\\RingoMedia.MVC\\wwwroot\\uploads\\11cceb43-b259-435e-8f4d-f6c333099a59.png",
+      "PackagePath": "staticwebassets\\uploads\\11cceb43-b259-435e-8f4d-f6c333099a59.png"
+    },
+    {
+      "Id": "E:\\RingoMedia\\RingoMedia\\RingoMedia.MVC\\wwwroot\\uploads\\52809cfa-a587-4bb5-bf7e-fc8e98e43310.png",
+      "PackagePath": "staticwebassets\\uploads\\52809cfa-a587-4bb5-bf7e-fc8e98e43310.png"
+    },
+    {
       "Id": "E:\\RingoMedia\\RingoMedia\\RingoMedia.MVC\\wwwroot\\uploads\\b9bb4ae4-c436-4ab6-a5f5-64c643a86124.png",
       "PackagePath": "staticwebassets\\uploads\\b9bb4ae4-c436-4ab6-a5f5-64c643a86124.png"
+    },
+    {
+      "Id": "E:\\RingoMedia\\RingoMedia\\RingoMedia.MVC\\wwwroot\\uploads\\bf537397-7213-4606-981f-63c99724f0b9.png",
+      "PackagePath": "staticwebassets\\uploads\\bf537397-7213-4606-981f-63c99724f0b9.png"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.RingoMedia.MVC.Microsoft.AspNetCore.StaticWebAssets.props",

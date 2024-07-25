@@ -19,3 +19,4 @@ E:\RingoMedia\RingoMedia\RingoMedia.Infrastructure\obj\Debug\net8.0\RingoMedia.I
 E:\RingoMedia\RingoMedia\RingoMedia.Infrastructure\obj\Debug\net8.0\refint\RingoMedia.Infrastructure.dll
 E:\RingoMedia\RingoMedia\RingoMedia.Infrastructure\obj\Debug\net8.0\RingoMedia.Infrastructure.pdb
 E:\RingoMedia\RingoMedia\RingoMedia.Infrastructure\obj\Debug\net8.0\ref\RingoMedia.Infrastructure.dll
+E:\RingoMedia\RingoMedia\RingoMedia.Infrastructure\obj\Debug\net8.0\RingoMedia.Infrastructure.sourcelink.json

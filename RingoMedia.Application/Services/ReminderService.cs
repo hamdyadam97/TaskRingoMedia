@@ -29,12 +29,19 @@ namespace RingoMedia.Application.Services
             var reminder = _mapper.Map<Reminder>(reminderDto);
             await _reminderRepository.AddReminderAsync(reminder);
 
+            try
+            {
+                await _emailService.SendEmailAsync(
+               reminderDto.mail,
+               "New Reminder Created",
+               $"Reminder '{reminder.Title}' scheduled for {reminder.DateTime} has been created."
+           );
+
+            }
+            catch (Exception ex) { }
+
             // Send email notification
-            await _emailService.SendEmailAsync(
-                reminderDto.mail,
-                "New Reminder Created",
-                $"Reminder '{reminder.Title}' scheduled for {reminder.DateTime} has been created."
-            );
+           
         }
 
         public async Task<IEnumerable<ReminderDTO>> GetRemindersAsync()
@@ -51,11 +58,19 @@ namespace RingoMedia.Application.Services
         {
             var reminder = _mapper.Map<Reminder>(reminderDto);
             await _reminderRepository.UpdateReminderAsync(reminder);
-            await _emailService.SendEmailAsync(
-                reminderDto.mail,
-                "New Reminder updated",
-                $"Reminder '{reminder.Title}' scheduled for {reminder.DateTime} has been created."
-            );
+            try
+            {
+                await _emailService.SendEmailAsync(
+               reminderDto.mail,
+               "New Reminder updated",
+               $"Reminder '{reminder.Title}' scheduled for {reminder.DateTime} has been created."
+           );
+            }
+            catch (Exception ex) {
+
+            }
+
+           
         }
 
         public async Task DeleteReminderAsync(int id)

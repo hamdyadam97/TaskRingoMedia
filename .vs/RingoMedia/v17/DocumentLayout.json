@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "E:\\RingoMedia\\RingoMedia\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{46980B31-2286-48F9-9465-04C6D20C4099}|RingoMedia.Infrastructure\\RingoMedia.Infrastructure.csproj|e:\\ringomedia\\ringomedia\\ringomedia.infrastructure\\reminderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46980B31-2286-48F9-9465-04C6D20C4099}|RingoMedia.Infrastructure\\RingoMedia.Infrastructure.csproj|solutionrelative:ringomedia.infrastructure\\reminderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B41FC42-1CA3-41EA-B8E1-2B8EBC458387}|RingoMedia.Application\\RingoMedia.Application.csproj|e:\\ringomedia\\ringomedia\\ringomedia.application\\services\\reminderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B41FC42-1CA3-41EA-B8E1-2B8EBC458387}|RingoMedia.Application\\RingoMedia.Application.csproj|solutionrelative:ringomedia.application\\services\\reminderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B41FC42-1CA3-41EA-B8E1-2B8EBC458387}|RingoMedia.Application\\RingoMedia.Application.csproj|e:\\ringomedia\\ringomedia\\ringomedia.application\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B41FC42-1CA3-41EA-B8E1-2B8EBC458387}|RingoMedia.Application\\RingoMedia.Application.csproj|solutionrelative:ringomedia.application\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B41FC42-1CA3-41EA-B8E1-2B8EBC458387}|RingoMedia.Application\\RingoMedia.Application.csproj|e:\\ringomedia\\ringomedia\\ringomedia.application\\iservices\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B41FC42-1CA3-41EA-B8E1-2B8EBC458387}|RingoMedia.Application\\RingoMedia.Application.csproj|solutionrelative:ringomedia.application\\iservices\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7F91C60F-2C21-4795-8B57-0FBC023AF559}|RingoMedia.MVC\\RingoMedia.MVC.csproj|e:\\ringomedia\\ringomedia\\ringomedia.mvc\\controllers\\remindercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F91C60F-2C21-4795-8B57-0FBC023AF559}|RingoMedia.MVC\\RingoMedia.MVC.csproj|solutionrelative:ringomedia.mvc\\controllers\\remindercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7F91C60F-2C21-4795-8B57-0FBC023AF559}|RingoMedia.MVC\\RingoMedia.MVC.csproj|e:\\ringomedia\\ringomedia\\ringomedia.mvc\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F91C60F-2C21-4795-8B57-0FBC023AF559}|RingoMedia.MVC\\RingoMedia.MVC.csproj|solutionrelative:ringomedia.mvc\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B41FC42-1CA3-41EA-B8E1-2B8EBC458387}|RingoMedia.Application\\RingoMedia.Application.csproj|e:\\ringomedia\\ringomedia\\ringomedia.application\\iservices\\ireminderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B41FC42-1CA3-41EA-B8E1-2B8EBC458387}|RingoMedia.Application\\RingoMedia.Application.csproj|solutionrelative:ringomedia.application\\iservices\\ireminderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DD3A5614-00EB-4389-8FAC-2F430B29797D}|RingoMedia.Models\\RingoMedia.Models.csproj|e:\\ringomedia\\ringomedia\\ringomedia.models\\reminder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,10 +67,6 @@
       "RelativeMoniker": "D:0:0:{7F91C60F-2C21-4795-8B57-0FBC023AF559}|RingoMedia.MVC\\RingoMedia.MVC.csproj|solutionrelative:ringomedia.mvc\\views\\department\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B41FC42-1CA3-41EA-B8E1-2B8EBC458387}|RingoMedia.Application\\RingoMedia.Application.csproj|e:\\ringomedia\\ringomedia\\ringomedia.application\\services\\reminderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B41FC42-1CA3-41EA-B8E1-2B8EBC458387}|RingoMedia.Application\\RingoMedia.Application.csproj|solutionrelative:ringomedia.application\\services\\reminderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7F91C60F-2C21-4795-8B57-0FBC023AF559}|RingoMedia.MVC\\RingoMedia.MVC.csproj|e:\\ringomedia\\ringomedia\\ringomedia.mvc\\views\\reminder\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7F91C60F-2C21-4795-8B57-0FBC023AF559}|RingoMedia.MVC\\RingoMedia.MVC.csproj|solutionrelative:ringomedia.mvc\\views\\reminder\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -63,10 +79,6 @@
       "RelativeMoniker": "D:0:0:{FB0CE293-1C87-4085-94F9-DF17F8E928C7}|RingoMedia.Context\\RingoMedia.Context.csproj|solutionrelative:ringomedia.context\\migrations\\20240724233051_mail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46980B31-2286-48F9-9465-04C6D20C4099}|RingoMedia.Infrastructure\\RingoMedia.Infrastructure.csproj|e:\\ringomedia\\ringomedia\\ringomedia.infrastructure\\reminderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46980B31-2286-48F9-9465-04C6D20C4099}|RingoMedia.Infrastructure\\RingoMedia.Infrastructure.csproj|solutionrelative:ringomedia.infrastructure\\reminderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C916464A-306E-4661-B823-D7240629A352}|RingoMedia.Dtos\\RingoMedia.Dtos.csproj|e:\\ringomedia\\ringomedia\\ringomedia.dtos\\reminderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C916464A-306E-4661-B823-D7240629A352}|RingoMedia.Dtos\\RingoMedia.Dtos.csproj|solutionrelative:ringomedia.dtos\\reminderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -77,14 +89,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2B41FC42-1CA3-41EA-B8E1-2B8EBC458387}|RingoMedia.Application\\RingoMedia.Application.csproj|e:\\ringomedia\\ringomedia\\ringomedia.application\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B41FC42-1CA3-41EA-B8E1-2B8EBC458387}|RingoMedia.Application\\RingoMedia.Application.csproj|solutionrelative:ringomedia.application\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B41FC42-1CA3-41EA-B8E1-2B8EBC458387}|RingoMedia.Application\\RingoMedia.Application.csproj|e:\\ringomedia\\ringomedia\\ringomedia.application\\iservices\\ireminderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B41FC42-1CA3-41EA-B8E1-2B8EBC458387}|RingoMedia.Application\\RingoMedia.Application.csproj|solutionrelative:ringomedia.application\\iservices\\ireminderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B41FC42-1CA3-41EA-B8E1-2B8EBC458387}|RingoMedia.Application\\RingoMedia.Application.csproj|e:\\ringomedia\\ringomedia\\ringomedia.application\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B41FC42-1CA3-41EA-B8E1-2B8EBC458387}|RingoMedia.Application\\RingoMedia.Application.csproj|solutionrelative:ringomedia.application\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7F91C60F-2C21-4795-8B57-0FBC023AF559}|RingoMedia.MVC\\RingoMedia.MVC.csproj|e:\\ringomedia\\ringomedia\\ringomedia.mvc\\views\\reminder\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -115,10 +119,6 @@
       "RelativeMoniker": "D:0:0:{7F91C60F-2C21-4795-8B57-0FBC023AF559}|RingoMedia.MVC\\RingoMedia.MVC.csproj|solutionrelative:ringomedia.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B41FC42-1CA3-41EA-B8E1-2B8EBC458387}|RingoMedia.Application\\RingoMedia.Application.csproj|e:\\ringomedia\\ringomedia\\ringomedia.application\\iservices\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B41FC42-1CA3-41EA-B8E1-2B8EBC458387}|RingoMedia.Application\\RingoMedia.Application.csproj|solutionrelative:ringomedia.application\\iservices\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FB0CE293-1C87-4085-94F9-DF17F8E928C7}|RingoMedia.Context\\RingoMedia.Context.csproj|e:\\ringomedia\\ringomedia\\ringomedia.context\\migrations\\20240723151706_inits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB0CE293-1C87-4085-94F9-DF17F8E928C7}|RingoMedia.Context\\RingoMedia.Context.csproj|solutionrelative:ringomedia.context\\migrations\\20240723151706_inits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -146,115 +146,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "ReminderController.cs",
               "DocumentMoniker": "E:\\RingoMedia\\RingoMedia\\RingoMedia.MVC\\Controllers\\ReminderController.cs",
               "RelativeDocumentMoniker": "RingoMedia.MVC\\Controllers\\ReminderController.cs",
               "ToolTip": "E:\\RingoMedia\\RingoMedia\\RingoMedia.MVC\\Controllers\\ReminderController.cs",
               "RelativeToolTip": "RingoMedia.MVC\\Controllers\\ReminderController.cs",
-              "ViewState": "AQIAAGMAAAAAAAAAAAAmwGgAAAAAAAAA",
+              "ViewState": "AQIAABcAAAAAAAAAAAAQwB4AAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-25T09:49:09.338Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Department.cs",
-              "DocumentMoniker": "E:\\RingoMedia\\RingoMedia\\RingoMedia.Models\\Department.cs",
-              "RelativeDocumentMoniker": "RingoMedia.Models\\Department.cs",
-              "ToolTip": "E:\\RingoMedia\\RingoMedia\\RingoMedia.Models\\Department.cs",
-              "RelativeToolTip": "RingoMedia.Models\\Department.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAABGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T11:52:02.589Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DepartmentDTO.cs",
-              "DocumentMoniker": "E:\\RingoMedia\\RingoMedia\\RingoMedia.Dtos\\DepartmentDTO.cs",
-              "RelativeDocumentMoniker": "RingoMedia.Dtos\\DepartmentDTO.cs",
-              "ToolTip": "E:\\RingoMedia\\RingoMedia\\RingoMedia.Dtos\\DepartmentDTO.cs",
-              "RelativeToolTip": "RingoMedia.Dtos\\DepartmentDTO.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAowBcAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T20:14:52.059Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\RingoMedia\\RingoMedia\\RingoMedia.MVC\\Views\\Department\\Index.cshtml",
-              "RelativeDocumentMoniker": "RingoMedia.MVC\\Views\\Department\\Index.cshtml",
-              "ToolTip": "E:\\RingoMedia\\RingoMedia\\RingoMedia.MVC\\Views\\Department\\Index.cshtml",
-              "RelativeToolTip": "RingoMedia.MVC\\Views\\Department\\Index.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAABkAAABcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-23T13:04:01.161Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "E:\\RingoMedia\\RingoMedia\\RingoMedia.MVC\\Views\\Department\\Create.cshtml",
-              "RelativeDocumentMoniker": "RingoMedia.MVC\\Views\\Department\\Create.cshtml",
-              "ToolTip": "E:\\RingoMedia\\RingoMedia\\RingoMedia.MVC\\Views\\Department\\Create.cshtml",
-              "RelativeToolTip": "RingoMedia.MVC\\Views\\Department\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAtwAgAAABFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-23T14:53:40.601Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "E:\\RingoMedia\\RingoMedia\\RingoMedia.MVC\\Views\\Department\\Edit.cshtml",
-              "RelativeDocumentMoniker": "RingoMedia.MVC\\Views\\Department\\Edit.cshtml",
-              "ToolTip": "E:\\RingoMedia\\RingoMedia\\RingoMedia.MVC\\Views\\Department\\Edit.cshtml",
-              "RelativeToolTip": "RingoMedia.MVC\\Views\\Department\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-23T14:56:37.902Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "DepartmentController.cs",
               "DocumentMoniker": "E:\\RingoMedia\\RingoMedia\\RingoMedia.MVC\\Controllers\\DepartmentController.cs",
               "RelativeDocumentMoniker": "RingoMedia.MVC\\Controllers\\DepartmentController.cs",
               "ToolTip": "E:\\RingoMedia\\RingoMedia\\RingoMedia.MVC\\Controllers\\DepartmentController.cs",
               "RelativeToolTip": "RingoMedia.MVC\\Controllers\\DepartmentController.cs",
-              "ViewState": "AQIAAI0AAAAAAAAAAAAkwF0AAAAMAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAA5wF0AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-23T13:01:16.716Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "E:\\RingoMedia\\RingoMedia\\RingoMedia.MVC\\Views\\Department\\Delete.cshtml",
-              "RelativeDocumentMoniker": "RingoMedia.MVC\\Views\\Department\\Delete.cshtml",
-              "ToolTip": "E:\\RingoMedia\\RingoMedia\\RingoMedia.MVC\\Views\\Department\\Delete.cshtml",
-              "RelativeToolTip": "RingoMedia.MVC\\Views\\Department\\Delete.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAtwBcAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-23T14:57:48.613Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "DepartmentService.cs",
               "DocumentMoniker": "E:\\RingoMedia\\RingoMedia\\RingoMedia.Application\\Services\\DepartmentService.cs",
               "RelativeDocumentMoniker": "RingoMedia.Application\\Services\\DepartmentService.cs",
@@ -262,12 +184,11 @@
               "RelativeToolTip": "RingoMedia.Application\\Services\\DepartmentService.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAIwBoAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T12:15:32.346Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-23T12:15:32.346Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "IDepartmentRepository.cs",
               "DocumentMoniker": "E:\\RingoMedia\\RingoMedia\\RingoMedia.Application\\Contract\\IDepartmentRepository.cs",
               "RelativeDocumentMoniker": "RingoMedia.Application\\Contract\\IDepartmentRepository.cs",
@@ -275,77 +196,50 @@
               "RelativeToolTip": "RingoMedia.Application\\Contract\\IDepartmentRepository.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAAABIAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T11:54:40.776Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-23T11:54:40.776Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Reminder.cs",
-              "DocumentMoniker": "E:\\RingoMedia\\RingoMedia\\RingoMedia.Models\\Reminder.cs",
-              "RelativeDocumentMoniker": "RingoMedia.Models\\Reminder.cs",
-              "ToolTip": "E:\\RingoMedia\\RingoMedia\\RingoMedia.Models\\Reminder.cs",
-              "RelativeToolTip": "RingoMedia.Models\\Reminder.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T11:52:39.173Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ReminderService.cs",
-              "DocumentMoniker": "E:\\RingoMedia\\RingoMedia\\RingoMedia.Application\\Services\\ReminderService.cs",
-              "RelativeDocumentMoniker": "RingoMedia.Application\\Services\\ReminderService.cs",
-              "ToolTip": "E:\\RingoMedia\\RingoMedia\\RingoMedia.Application\\Services\\ReminderService.cs",
-              "RelativeToolTip": "RingoMedia.Application\\Services\\ReminderService.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAAADcAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T12:32:08.127Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "E:\\RingoMedia\\RingoMedia\\RingoMedia.MVC\\Views\\Reminder\\Edit.cshtml",
-              "RelativeDocumentMoniker": "RingoMedia.MVC\\Views\\Reminder\\Edit.cshtml",
-              "ToolTip": "E:\\RingoMedia\\RingoMedia\\RingoMedia.MVC\\Views\\Reminder\\Edit.cshtml",
-              "RelativeToolTip": "RingoMedia.MVC\\Views\\Reminder\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-23T15:01:43.123Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 0,
               "Title": "ReminderRepository.cs",
               "DocumentMoniker": "E:\\RingoMedia\\RingoMedia\\RingoMedia.Infrastructure\\ReminderRepository.cs",
               "RelativeDocumentMoniker": "RingoMedia.Infrastructure\\ReminderRepository.cs",
               "ToolTip": "E:\\RingoMedia\\RingoMedia\\RingoMedia.Infrastructure\\ReminderRepository.cs",
               "RelativeToolTip": "RingoMedia.Infrastructure\\ReminderRepository.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAIA4wCkAAAAIAAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAAAEwCkAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-23T12:11:38.961Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ReminderDTO.cs",
-              "DocumentMoniker": "E:\\RingoMedia\\RingoMedia\\RingoMedia.Dtos\\ReminderDTO.cs",
-              "RelativeDocumentMoniker": "RingoMedia.Dtos\\ReminderDTO.cs",
-              "ToolTip": "E:\\RingoMedia\\RingoMedia\\RingoMedia.Dtos\\ReminderDTO.cs",
-              "RelativeToolTip": "RingoMedia.Dtos\\ReminderDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAWAAAA",
+              "DocumentIndex": 1,
+              "Title": "ReminderService.cs",
+              "DocumentMoniker": "E:\\RingoMedia\\RingoMedia\\RingoMedia.Application\\Services\\ReminderService.cs",
+              "RelativeDocumentMoniker": "RingoMedia.Application\\Services\\ReminderService.cs",
+              "ToolTip": "E:\\RingoMedia\\RingoMedia\\RingoMedia.Application\\Services\\ReminderService.cs",
+              "RelativeToolTip": "RingoMedia.Application\\Services\\ReminderService.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAiwCcAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T20:24:35.089Z",
+              "WhenOpened": "2024-07-23T12:32:08.127Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 3,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "E:\\RingoMedia\\RingoMedia\\RingoMedia.Application\\IServices\\IEmailService.cs",
+              "RelativeDocumentMoniker": "RingoMedia.Application\\IServices\\IEmailService.cs",
+              "ToolTip": "E:\\RingoMedia\\RingoMedia\\RingoMedia.Application\\IServices\\IEmailService.cs",
+              "RelativeToolTip": "RingoMedia.Application\\IServices\\IEmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T21:56:47.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "IReminderService.cs",
               "DocumentMoniker": "E:\\RingoMedia\\RingoMedia\\RingoMedia.Application\\IServices\\IReminderService.cs",
               "RelativeDocumentMoniker": "RingoMedia.Application\\IServices\\IReminderService.cs",
@@ -358,7 +252,128 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "E:\\RingoMedia\\RingoMedia\\RingoMedia.Application\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "RingoMedia.Application\\Services\\EmailService.cs",
+              "ToolTip": "E:\\RingoMedia\\RingoMedia\\RingoMedia.Application\\Services\\EmailService.cs",
+              "RelativeToolTip": "RingoMedia.Application\\Services\\EmailService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAvwBQAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T21:58:01.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\RingoMedia\\RingoMedia\\RingoMedia.MVC\\Views\\Department\\Delete.cshtml",
+              "RelativeDocumentMoniker": "RingoMedia.MVC\\Views\\Department\\Delete.cshtml",
+              "ToolTip": "E:\\RingoMedia\\RingoMedia\\RingoMedia.MVC\\Views\\Department\\Delete.cshtml",
+              "RelativeToolTip": "RingoMedia.MVC\\Views\\Department\\Delete.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAtwBcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T14:57:48.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\RingoMedia\\RingoMedia\\RingoMedia.MVC\\Views\\Department\\Edit.cshtml",
+              "RelativeDocumentMoniker": "RingoMedia.MVC\\Views\\Department\\Edit.cshtml",
+              "ToolTip": "E:\\RingoMedia\\RingoMedia\\RingoMedia.MVC\\Views\\Department\\Edit.cshtml",
+              "RelativeToolTip": "RingoMedia.MVC\\Views\\Department\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T14:56:37.902Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\RingoMedia\\RingoMedia\\RingoMedia.MVC\\Views\\Department\\Create.cshtml",
+              "RelativeDocumentMoniker": "RingoMedia.MVC\\Views\\Department\\Create.cshtml",
+              "ToolTip": "E:\\RingoMedia\\RingoMedia\\RingoMedia.MVC\\Views\\Department\\Create.cshtml",
+              "RelativeToolTip": "RingoMedia.MVC\\Views\\Department\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAtwAgAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T14:53:40.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\RingoMedia\\RingoMedia\\RingoMedia.MVC\\Views\\Department\\Index.cshtml",
+              "RelativeDocumentMoniker": "RingoMedia.MVC\\Views\\Department\\Index.cshtml",
+              "ToolTip": "E:\\RingoMedia\\RingoMedia\\RingoMedia.MVC\\Views\\Department\\Index.cshtml",
+              "RelativeToolTip": "RingoMedia.MVC\\Views\\Department\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABkAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T13:04:01.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DepartmentDTO.cs",
+              "DocumentMoniker": "E:\\RingoMedia\\RingoMedia\\RingoMedia.Dtos\\DepartmentDTO.cs",
+              "RelativeDocumentMoniker": "RingoMedia.Dtos\\DepartmentDTO.cs",
+              "ToolTip": "E:\\RingoMedia\\RingoMedia\\RingoMedia.Dtos\\DepartmentDTO.cs",
+              "RelativeToolTip": "RingoMedia.Dtos\\DepartmentDTO.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAowBcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T20:14:52.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Department.cs",
+              "DocumentMoniker": "E:\\RingoMedia\\RingoMedia\\RingoMedia.Models\\Department.cs",
+              "RelativeDocumentMoniker": "RingoMedia.Models\\Department.cs",
+              "ToolTip": "E:\\RingoMedia\\RingoMedia\\RingoMedia.Models\\Department.cs",
+              "RelativeToolTip": "RingoMedia.Models\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T11:52:02.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Reminder.cs",
+              "DocumentMoniker": "E:\\RingoMedia\\RingoMedia\\RingoMedia.Models\\Reminder.cs",
+              "RelativeDocumentMoniker": "RingoMedia.Models\\Reminder.cs",
+              "ToolTip": "E:\\RingoMedia\\RingoMedia\\RingoMedia.Models\\Reminder.cs",
+              "RelativeToolTip": "RingoMedia.Models\\Reminder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T11:52:39.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\RingoMedia\\RingoMedia\\RingoMedia.MVC\\Views\\Reminder\\Edit.cshtml",
+              "RelativeDocumentMoniker": "RingoMedia.MVC\\Views\\Reminder\\Edit.cshtml",
+              "ToolTip": "E:\\RingoMedia\\RingoMedia\\RingoMedia.MVC\\Views\\Reminder\\Edit.cshtml",
+              "RelativeToolTip": "RingoMedia.MVC\\Views\\Reminder\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T15:01:43.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ReminderDTO.cs",
+              "DocumentMoniker": "E:\\RingoMedia\\RingoMedia\\RingoMedia.Dtos\\ReminderDTO.cs",
+              "RelativeDocumentMoniker": "RingoMedia.Dtos\\ReminderDTO.cs",
+              "ToolTip": "E:\\RingoMedia\\RingoMedia\\RingoMedia.Dtos\\ReminderDTO.cs",
+              "RelativeToolTip": "RingoMedia.Dtos\\ReminderDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T20:24:35.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\RingoMedia\\RingoMedia\\RingoMedia.MVC\\Views\\Reminder\\Index.cshtml",
               "RelativeDocumentMoniker": "RingoMedia.MVC\\Views\\Reminder\\Index.cshtml",
@@ -366,12 +381,11 @@
               "RelativeToolTip": "RingoMedia.MVC\\Views\\Reminder\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-24T19:38:06.27Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-24T19:38:06.27Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "E:\\RingoMedia\\RingoMedia\\RingoMedia.MVC\\Views\\Reminder\\Delete.cshtml",
               "RelativeDocumentMoniker": "RingoMedia.MVC\\Views\\Reminder\\Delete.cshtml",
@@ -379,12 +393,11 @@
               "RelativeToolTip": "RingoMedia.MVC\\Views\\Reminder\\Delete.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-23T15:01:58.721Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-23T15:01:58.721Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "20240724233051_mail.cs",
               "DocumentMoniker": "E:\\RingoMedia\\RingoMedia\\RingoMedia.Context\\Migrations\\20240724233051_mail.cs",
               "RelativeDocumentMoniker": "RingoMedia.Context\\Migrations\\20240724233051_mail.cs",
@@ -392,12 +405,11 @@
               "RelativeToolTip": "RingoMedia.Context\\Migrations\\20240724233051_mail.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T23:30:51.8Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-24T23:30:51.8Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "MappingProfile.cs",
               "DocumentMoniker": "E:\\RingoMedia\\RingoMedia\\RingoMedia.Application\\Mapper\\MappingProfile.cs",
               "RelativeDocumentMoniker": "RingoMedia.Application\\Mapper\\MappingProfile.cs",
@@ -405,25 +417,11 @@
               "RelativeToolTip": "RingoMedia.Application\\Mapper\\MappingProfile.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAIBJwBcAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T21:16:21.555Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-23T21:16:21.555Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "EmailService.cs",
-              "DocumentMoniker": "E:\\RingoMedia\\RingoMedia\\RingoMedia.Application\\Services\\EmailService.cs",
-              "RelativeDocumentMoniker": "RingoMedia.Application\\Services\\EmailService.cs",
-              "ToolTip": "E:\\RingoMedia\\RingoMedia\\RingoMedia.Application\\Services\\EmailService.cs",
-              "RelativeToolTip": "RingoMedia.Application\\Services\\EmailService.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAvwBQAAABiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T21:58:01.442Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "Create.cshtml",
               "DocumentMoniker": "E:\\RingoMedia\\RingoMedia\\RingoMedia.MVC\\Views\\Reminder\\Create.cshtml",
               "RelativeDocumentMoniker": "RingoMedia.MVC\\Views\\Reminder\\Create.cshtml",
@@ -431,12 +429,11 @@
               "RelativeToolTip": "RingoMedia.MVC\\Views\\Reminder\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-23T15:00:31.992Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-23T15:00:31.992Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "IReminderRepository.cs",
               "DocumentMoniker": "E:\\RingoMedia\\RingoMedia\\RingoMedia.Application\\Contract\\IReminderRepository.cs",
               "RelativeDocumentMoniker": "RingoMedia.Application\\Contract\\IReminderRepository.cs",
@@ -444,12 +441,11 @@
               "RelativeToolTip": "RingoMedia.Application\\Contract\\IReminderRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T11:55:19.366Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-23T11:55:19.366Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "DepartmentRepository.cs",
               "DocumentMoniker": "E:\\RingoMedia\\RingoMedia\\RingoMedia.Infrastructure\\DepartmentRepository.cs",
               "RelativeDocumentMoniker": "RingoMedia.Infrastructure\\DepartmentRepository.cs",
@@ -457,12 +453,11 @@
               "RelativeToolTip": "RingoMedia.Infrastructure\\DepartmentRepository.cs",
               "ViewState": "AQIAABEAAAAAAAAAAIA4wBwAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T12:09:35.369Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-23T12:09:35.369Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "IDepartmentService.cs",
               "DocumentMoniker": "E:\\RingoMedia\\RingoMedia\\RingoMedia.Application\\IServices\\IDepartmentService.cs",
               "RelativeDocumentMoniker": "RingoMedia.Application\\IServices\\IDepartmentService.cs",
@@ -470,12 +465,11 @@
               "RelativeToolTip": "RingoMedia.Application\\IServices\\IDepartmentService.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAewBQAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T12:12:40.587Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-23T12:12:40.587Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "DepartmentDetailsViewModel.cs",
               "DocumentMoniker": "E:\\RingoMedia\\RingoMedia\\RingoMedia.Dtos\\DepartmentDetailsViewModel.cs",
               "RelativeDocumentMoniker": "RingoMedia.Dtos\\DepartmentDetailsViewModel.cs",
@@ -483,12 +477,11 @@
               "RelativeToolTip": "RingoMedia.Dtos\\DepartmentDetailsViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T13:25:07.012Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-24T13:25:07.012Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "Details.cshtml",
               "DocumentMoniker": "E:\\RingoMedia\\RingoMedia\\RingoMedia.MVC\\Views\\Department\\Details.cshtml",
               "RelativeDocumentMoniker": "RingoMedia.MVC\\Views\\Department\\Details.cshtml",
@@ -496,12 +489,11 @@
               "RelativeToolTip": "RingoMedia.MVC\\Views\\Department\\Details.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-24T13:26:05.277Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-24T13:26:05.277Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\RingoMedia\\RingoMedia\\RingoMedia.MVC\\Program.cs",
               "RelativeDocumentMoniker": "RingoMedia.MVC\\Program.cs",
@@ -509,8 +501,7 @@
               "RelativeToolTip": "RingoMedia.MVC\\Program.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAuwA8AAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T13:21:43.577Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-23T13:21:43.577Z"
             },
             {
               "$type": "Document",
@@ -522,21 +513,7 @@
               "RelativeToolTip": "RingoMedia.Context\\Migrations\\20240724103300_list.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T10:33:00.499Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "IEmailService.cs",
-              "DocumentMoniker": "E:\\RingoMedia\\RingoMedia\\RingoMedia.Application\\IServices\\IEmailService.cs",
-              "RelativeDocumentMoniker": "RingoMedia.Application\\IServices\\IEmailService.cs",
-              "ToolTip": "E:\\RingoMedia\\RingoMedia\\RingoMedia.Application\\IServices\\IEmailService.cs",
-              "RelativeToolTip": "RingoMedia.Application\\IServices\\IEmailService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T21:56:47.356Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-24T10:33:00.499Z"
             },
             {
               "$type": "Document",
@@ -548,8 +525,7 @@
               "RelativeToolTip": "RingoMedia.MVC\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-23T14:55:50.626Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-23T14:55:50.626Z"
             },
             {
               "$type": "Document",
@@ -561,8 +537,7 @@
               "RelativeToolTip": "RingoMedia.Context\\Migrations\\20240723151706_inits.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T15:17:06.736Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-23T15:17:06.736Z"
             },
             {
               "$type": "Document",
@@ -574,8 +549,7 @@
               "RelativeToolTip": "RingoMedia.MVC\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-23T13:11:48.339Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-23T13:11:48.339Z"
             },
             {
               "$type": "Document",
@@ -587,8 +561,7 @@
               "RelativeToolTip": "RingoMedia.Context\\RingoMediaDbContext.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAIBJwBEAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T12:04:17.584Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-23T12:04:17.584Z"
             }
           ]
         }
